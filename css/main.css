@@ -135,9 +135,9 @@ div#header {
 div#logo {
     background: url("../images/logo.png") no-repeat scroll left top transparent;
     float: left;
-    height: 92px;
+    height: 91px;
     margin-left: 198px;
-    width: 472px;
+    width: 552px;
 }
 div#logo a {
     display: block;
