@@ -135,9 +135,9 @@ div#header {
 div#logo {
     background: url("../images/logo.png") no-repeat scroll left top transparent;
     float: left;
-    height: 91px;
+    height: 92px;
     margin-left: 198px;
-    width: 552px;
+    width: 472px;
 }
 div#logo a {
     display: block;
@@ -1485,4 +1485,3 @@ a.jumpLink:hover {
 .rrbButtonIn {
     height: 17px !important;
 }
-
